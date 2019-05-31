@@ -34,3 +34,18 @@
   padding-top: 30px;
   padding-right: 50px;
 }
+.list li {
+  margin-bottom: 10px;
+}
+.list li:last-child {
+  padding-bottom: 20px;
+}
+.sidehead {
+  font-size: 2em;
+  font-family: courier;
+  text-align: center;
+}
+.style1 {
+  color: red;
+  text-decoration: underline;
+}
