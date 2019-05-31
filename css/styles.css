@@ -49,3 +49,9 @@
   color: red;
   text-decoration: underline;
 }
+.center {
+  text-align: center;
+}
+.interests {
+  margin-bottom: 100px;
+}
