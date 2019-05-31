@@ -15,8 +15,8 @@
 .sidebar {
   float: left;
   width: 16%;
-  background-color: salmon;
-  height: 1000px;
+  background-color: lightblue;
+  height: 2000px;
   margin-left: 40px;
   margin-top: 100px;
   padding-left: 50px;
@@ -26,8 +26,8 @@
 .sidebar2 {
   float: right;
   width: 16%;
-  background-color: salmon;
-  height: 1000px;
+  background-color: lightblue;
+  height: 2000px;
   margin-right: 40px;
   margin-top: 100px;
   padding-left: 50px;
@@ -63,4 +63,11 @@
 
 .row-img {
   width: 100%;
+}
+#jumboimg {
+  /* background: image("img/beach.jpg"); 
+  //couldnt figure out the image^ */
+  color: darkblue;
+  background-size: cover;
+
 }
