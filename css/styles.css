@@ -9,4 +9,13 @@
   margin-left: auto;
   margin-right: auto;
   width: 13%;
+  border: 2px solid black;
+}
+
+.sidebar {
+  float: left;
+  width: 10%;
+  height: 500px;
+  padding-left: 60px;
+  padding-top: 100px;
 }
