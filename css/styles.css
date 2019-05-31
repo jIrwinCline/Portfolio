@@ -1,0 +1,12 @@
+.name {
+  text-align: center;
+}
+
+#propic {
+  height: auto;
+  float: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 13%;
+}
